@@ -1,4 +1,6 @@
 etc/.tp/thermal.policy.conf
+etc/.tp/thermal.conf
+etc/.tp/thermal.off.conf
 lib/libcjson.so
 vendor/smartvolume/suez/anlg_dock_headset.csv
 vendor/smartvolume/suez/aux_digital.csv
